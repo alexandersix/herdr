@@ -1,0 +1,9 @@
+# Herdr runtime state
+herdr*.log
+herdr*.sock
+session.json
+.plugins.lock
+
+# Local backups and OS metadata
+config.toml.bak*
+.DS_Store
