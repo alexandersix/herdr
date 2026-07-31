@@ -1,4 +1,7 @@
 [keys]
+# Rename the current tab with Prefix+,.
+rename_tab = "prefix+,"
+
 # Create a left-right split with Prefix+| or Prefix+\.
 split_vertical = ["prefix+|", "prefix+backslash"]
 
