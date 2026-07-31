@@ -1,3 +1,4 @@
+onboarding = false
 [keys]
 # Rename the current tab with Prefix+,.
 rename_tab = "prefix+,"
