@@ -10,6 +10,10 @@ split_vertical = ["prefix+|", "prefix+backslash"]
 navigate_workspace_up = ["up", "k"]
 navigate_workspace_down = ["down", "j"]
 
+# Pane movement remains available through Prefix+j/k outside Navigate mode.
+navigate_pane_up = ""
+navigate_pane_down = ""
+
 [theme]
 # Everforest palette from ~/.config/ghostty/config.
 name = "terminal"
